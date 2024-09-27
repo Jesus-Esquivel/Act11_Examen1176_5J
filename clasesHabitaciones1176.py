@@ -37,9 +37,7 @@ class Habitaciones1176:
         print("Costo de las habitaciones:")
         for habitacion, costo in Cost.items():
             print(f"{habitacion}: {costo}")
-    def altas1176(self):
         print("La operación de alta se realizó correctamente.")
-    def bajas1176(self):
         print("La operación de baja se realizó correctamente.")
 # Creación de objeto 
 Habi = Habitaciones1176()
